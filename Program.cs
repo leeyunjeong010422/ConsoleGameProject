@@ -1261,9 +1261,7 @@ namespace ConsoleGameProject
                         continue;
 
                 }
-
             }
-
         }
        
     }
